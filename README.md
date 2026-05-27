@@ -1,5 +1,5 @@
 # Flux
-A compact, dual-fan extractor designed for soldering workbenches. FLUX pulls solder smoke away and routes it out of the workspace through a flexible duct, keeping air clean for under $30
+A compact, dual-fan extractor designed for soldering workbenches. FLUX pulls solder smoke away and routes it out of the workspace through a flexible duct, keeping air clean for under $40
 
 Why
 Solder fumes are a health hazard, and many Fume Extractors that do the job actaully don't, they end up routing all the fumes around the room, FLUX solves this cheaply and efficently, a high volume intake right at the work surface captures fumes at the source before they reach your face
