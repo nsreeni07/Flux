@@ -7,6 +7,8 @@ Solder fumes are a health hazard, and many Fume Extractors that do the job actau
 How it Works 
 FLUX draws air through the 2 120mm computer fans and re routes them out the window allowing for safe soldering. 
 
+Onshape Link:[https://cad.onshape.com/documents/ae291fcf005e21f8ead63777/w/105ae2836a2d5d7bdb4a4c74/e/ae3124f8bb89971ef9b9c9ca?renderMode=0&uiState=6a2206c1be9aa512795d84d8](url)
+
 <img width="788" height="691" alt="Screenshot 2026-05-27 164258" src="https://github.com/user-attachments/assets/f053b002-f3a4-46db-aba3-8850bb13fb94" />
 
 <img width="806" height="436" alt="Screenshot 2026-06-01 191029" src="https://github.com/user-attachments/assets/257be13b-8868-4e01-92d3-6337ce895f0d" />
