@@ -7,6 +7,8 @@ Solder fumes are a health hazard, and many Fume Extractors that do the job actau
 How it Works 
 FLUX draws air through the 2 120mm computer fans and re routes them out the window allowing for safe soldering. 
 
+Assembly: The main case is in 2 parts first screw the fans,spst switch, and dc female jack into the main body.Then with m3 holes in the corner attach the back of the case. After use stick on acrylic hinges to mount the 3 flaps to the main body make sure to leave room for the hinges. then attach the duct to the back of the case and attach the end of the duct to the external mount and leave it outside your window, You may also attache carbon filters to the back of the base if you would like filtered air. 
+
 Onshape Link:[https://cad.onshape.com/documents/ae291fcf005e21f8ead63777/w/105ae2836a2d5d7bdb4a4c74/e/ae3124f8bb89971ef9b9c9ca?renderMode=0&uiState=6a2206c1be9aa512795d84d8](url)
 
 <img width="788" height="691" alt="Screenshot 2026-05-27 164258" src="https://github.com/user-attachments/assets/f053b002-f3a4-46db-aba3-8850bb13fb94" />
